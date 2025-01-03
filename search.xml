@@ -31,4 +31,17 @@
         <tag>golang</tag>
       </tags>
   </entry>
+  <entry>
+    <title>update preview</title>
+    <url>/2025/01/03/update-preview/</url>
+    <content><![CDATA[<ul>
+<li><p><input disabled="" type="checkbox"> 
+好用的异步函数</p>
+</li>
+<li><p><input disabled="" type="checkbox"> 
+分布式系统的一致性确认</p>
+</li>
+</ul>
+]]></content>
+  </entry>
 </search>
